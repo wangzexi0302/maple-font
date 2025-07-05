@@ -55,7 +55,9 @@
     "glyphs": [
       "--complete"
     ],
-    "extra_args": []
+    "extra_args": [
+      "--variable-width-glyphs",
+    ]
   },
   "cn": {
     "enable": false,
