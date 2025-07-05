@@ -51,7 +51,7 @@
     "enable": true,
     "version": "3.4.0",
     "mono": false,
-    "use_font_patcher": false,
+    "use_font_patcher": true,
     "glyphs": [
       "--complete"
     ],
@@ -60,7 +60,7 @@
     ]
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
